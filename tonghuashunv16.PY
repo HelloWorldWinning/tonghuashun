@@ -1,3 +1,5 @@
+##同花顺v16 _,5只股票,1天条件
+
 import tushare as ts
 import numpy as np
 import pandas as pd
